@@ -7,7 +7,7 @@ export default defineConfig({
     'meta',
     {
       name: 'google-site-verification',
-      content: 'google-site-verification=o6OMod6V9hScfMNp1TtchW3A0jq1iKeu4jomCnoZ3IY'
+      content: 'o6OMod6V9hScfMNp1TtchW3A0jq1iKeu4jomCnoZ3IY'
     }
   ]
 ],
