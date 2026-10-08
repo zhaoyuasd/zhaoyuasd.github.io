@@ -1,43 +1,49 @@
 {
-  "hash": "5665c1b5",
+  "hash": "9c6f69c6",
   "configHash": "7291f480",
-  "lockfileHash": "281a591d",
-  "browserHash": "3d65d3c1",
+  "lockfileHash": "afbd1dda",
+  "browserHash": "f571d249",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "85233b7c",
+      "fileHash": "31632956",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "6e550873",
+      "fileHash": "67f4c271",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "ed61862f",
+      "fileHash": "689dc3ec",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "8f953b0a",
+      "fileHash": "13e2bef7",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "025deee0",
+      "fileHash": "ff749306",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "ef8aa0eb",
+      "fileHash": "ea377942",
+      "needsInterop": false
+    },
+    "@giscus/vue": {
+      "src": "../../../node_modules/@giscus/vue/dist/index.js",
+      "file": "@giscus_vue.js",
+      "fileHash": "0788fac3",
       "needsInterop": false
     }
   },
@@ -47,6 +53,9 @@
     },
     "chunk-YY2KLAJF": {
       "file": "chunk-YY2KLAJF.js"
+    },
+    "giscus-Ci9LqPcC-HTO3SDJY": {
+      "file": "giscus-Ci9LqPcC-HTO3SDJY.js"
     }
   }
 }
