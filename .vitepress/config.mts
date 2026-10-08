@@ -12,6 +12,7 @@ export default defineConfig({
       { text: 'SpringCloud', link: '/SpringCloud/' }
     ],
 
+    
     sidebar: {
       '/SpringCloud/': [
         {
