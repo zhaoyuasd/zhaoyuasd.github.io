@@ -1,6 +1,21 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar'
 export default defineConfig({
+
+  head: [
+  [
+    'meta',
+    {
+      name: 'google-site-verification',
+      content: 'google-site-verification=o6OMod6V9hScfMNp1TtchW3A0jq1iKeu4jomCnoZ3IY'
+    }
+  ]
+],
+
+sitemap: {
+  hostname: 'https://zhaoyuasd.github.io'
+},
+
   title: '老赵的博客',
   description: '技术永不眠',
  // srcDir: 'docs',
@@ -32,7 +47,7 @@ export default defineConfig({
       }
     ],
 
-    
+ 
     search: {
       provider: 'local'
     },
