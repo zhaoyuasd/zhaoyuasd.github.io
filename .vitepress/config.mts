@@ -29,7 +29,7 @@ sitemap: {
 
     
    sidebar: generateSidebar({
-      documentRootPath: 'docs',
+      documentRootPath: '.',
       scanStartPath: '/',
       resolvePath: '/',
       useTitleFromFileHeading: true,
