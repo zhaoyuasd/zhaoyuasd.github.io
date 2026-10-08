@@ -13,7 +13,7 @@
 
 
 # 2、主要配置文件
-![主要配置文件](https://i.imgur.com/Eofz1QG.png)
+![主要配置文件](./images/nacos-load/1.png)
 ```
 org.springframework.cloud.bootstrap.BootstrapConfiguration=\\ 
 ### 主要是这行
@@ -92,7 +92,7 @@ setListeners((Collection) getSpringFactoriesInstances(ApplicationListener.class)
  
 ```
 >这个方法会读到springcloud包下
-![](https://i.imgur.com/FftxsGY.png)
+![](./images/nacos-load/2.png)
 ```
 Application Listeners
 org.springframework.context.ApplicationListener=\
@@ -309,10 +309,10 @@ org.springframework.cloud.bootstrap.BootstrapImportSelector#selectImports {
 
 这是springcloud的配置 真正干活的类是
 
-![springcloud核心配置类](https://i.imgur.com/bYohCRs.png)
+![springcloud核心配置类](./images/nacos-load/3.png)
 
 #### 3、nacos核心配置类
-![nacos核心配置类](https://i.imgur.com/usiS9DJ.png)
+![nacos核心配置类](./images/nacos-load/4.png)
 
 #### 4、加载nacos配置
 
