@@ -3,7 +3,7 @@
 # springcloud加载nacos配置
 
 ---
-
+>srpingboot3以上使用了新的加载方式 采访的逻辑为springboot3之前的处理逻辑
 
 # 1、maven依赖
 
