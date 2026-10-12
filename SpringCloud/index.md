@@ -18,7 +18,7 @@ features:
     details: SpringCloud 相关源码分析。
     link: /SpringCloud/nacos-load
 
-  - title: SpringCloud加载nacos配置
+  - title: SpringCloud感知Nacos配置变化
     details: SpringCloud 相关源码分析。
-    link: /SpringCloud/nacos-load
+    link: /SpringCloud/nacos-change-notify
 ---
