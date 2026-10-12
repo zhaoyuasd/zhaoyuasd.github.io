@@ -21,4 +21,9 @@ features:
   - title: SpringCloud感知Nacos配置变化
     details: SpringCloud 相关源码分析。
     link: /SpringCloud/nacos-change-notify
+ 
+  - title: RefreshScope工作原理
+    details: SpringCloud 相关源码分析。
+    link: /SpringCloud/refreshScope
+
 ---
