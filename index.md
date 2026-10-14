@@ -18,5 +18,9 @@ features:
     details: SpringCloud 相关源码分析。
     link: /SpringCloud/nacos-load
 
+features:
+  - title: Maven
+    details: Maven版本依赖管理。
+    link: /Maven/maven-dependence-final
 
 ---
