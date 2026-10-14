@@ -8,8 +8,8 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /Maven/nacos-load
- maven-dependence-final: alt
+      link: /Maven/maven-dependence-final
+    - theme: alt
       text: GitHub
       link: https://github.com/zhaoyuasd
 
