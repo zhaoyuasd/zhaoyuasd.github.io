@@ -24,7 +24,7 @@ sitemap: {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: 'SpringCloud', link: '/SpringCloud/' }
+      { text: 'SpringCloud', link: '/SpringCloud/' },
       { text: 'Maven', link: '/Maven/' }
     ],
 
