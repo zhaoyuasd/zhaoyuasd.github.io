@@ -25,6 +25,7 @@ sitemap: {
     nav: [
       { text: '首页', link: '/' },
       { text: 'SpringCloud', link: '/SpringCloud/' },
+      { text: 'Spring', link: '/Spring/' },
       { text: 'Maven', link: '/Maven/' }
     ],
 
